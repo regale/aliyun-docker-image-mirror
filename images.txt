@@ -8,4 +8,4 @@ grafana/alloy:latest
 minio/minio:latest
 grafana/grafana:latest
 mingrammer/flog
-sonarqube:10.8.0-community
+sonarqube:10.2.0-community
